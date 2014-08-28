@@ -18,3 +18,6 @@ Control flow: using switch/cases for control flow
 
 ##arduino_for_loops
 An exercise in learning for loops
+
+##arduino_while_loops
+Learning about three kinds of while loops
