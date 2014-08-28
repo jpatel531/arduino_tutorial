@@ -5,24 +5,30 @@ int x;
 void setup() 
 {
   Serial.begin(9600);
-  Serial.println("if & if/else statements");
+  Serial.println("if & if/else & else/if statements");
   Serial.println();
 }
 
 void loop() 
 {
-  x++;
-  if (x>10)
+  if (x==1)
   {
-    Serial.println("The counter of variable x now has a value of ");
-    Serial.println(x);
+    Serial.println("Text 1");
+
+  }
+  else if(x==10)
+  {
+    Serial.println("Text 10");
     while(1);
   }
+  
   else
   {
+ 
     Serial.print("X = ");
     Serial.print(x);
     Serial.println();
   }
+  x++;
 
 }
