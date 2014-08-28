@@ -11,3 +11,7 @@ An exercise in arrays in Arduino. Static vs. dynamic arrays and for loops
 ##arduino_if
 
 Control flow: if/else statements
+
+##arduino_switchcase
+
+Control flow: using switch/cases for control flow
