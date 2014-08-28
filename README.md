@@ -15,3 +15,6 @@ Control flow: if/else statements
 ##arduino_switchcase
 
 Control flow: using switch/cases for control flow
+
+##arduino_for_loops
+An exercise in learning for loops
