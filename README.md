@@ -7,3 +7,7 @@ The program prints to the console the sum of 5 + 188, and followed by the blinki
 ## arduino_arrays
 
 An exercise in arrays in Arduino. Static vs. dynamic arrays and for loops
+
+##arduino_if
+
+Control flow: if/else statements
