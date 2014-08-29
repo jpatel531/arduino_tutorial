@@ -27,3 +27,11 @@ Must be introduced by specifying their return value-type (int, byte, void etc.).
 
 ##arduino_continue
 Skips the rest of a code within a loop. Much like `next` in Ruby
+
+##arduino_map
+Useful for mapping one range to the other. ideally suited to scale a great input variable to a smaller output variable.
+
+##arduino_constrain
+Constrains all values passed within the range given by parameters 2 and 3.
+
+
