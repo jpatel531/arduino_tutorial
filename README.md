@@ -36,3 +36,10 @@ Constrains all values passed within the range given by parameters 2 and 3.
 
 ##arduino_serial_available
 A demonstraion of how Serial.available() works. Checks to see whether a character is available in the serial buffer or not. On sending a character in the terminal, the serial will return "I have received the following character" plus the ASCII code for the character.
+
+##arduino_ascii
+Writes an ascii table to the console window. For example:
+	a, dec: 97, hex: 61, oct: 141, bin: 1100001
+
+
+	
