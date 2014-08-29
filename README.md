@@ -41,5 +41,9 @@ A demonstraion of how Serial.available() works. Checks to see whether a characte
 Writes an ascii table to the console window. For example:
 	`a, dec: 97, hex: 61, oct: 141, bin: 1100001`
 
+##arduino_serial_print
+
+Writes to the serial: 1) the ASCII code 65, and returns 'A'; 2) a string 3) an array of strings, which is joined in the function Serial.write(array, length)
+
 
 	
