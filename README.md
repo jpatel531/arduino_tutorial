@@ -39,7 +39,7 @@ A demonstraion of how Serial.available() works. Checks to see whether a characte
 
 ##arduino_ascii
 Writes an ascii table to the console window. For example:
-	a, dec: 97, hex: 61, oct: 141, bin: 1100001
+	`a, dec: 97, hex: 61, oct: 141, bin: 1100001`
 
 
 	
