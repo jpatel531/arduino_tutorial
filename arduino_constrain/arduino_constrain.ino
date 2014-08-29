@@ -11,7 +11,7 @@ void loop()
 {
   for(x=0; x<60; x++)
   {
-    Res=constrain(x, 10, 50)
+    Res=constrain(x, 10, 50);
     Serial.print(Res);
     Serial.println();
   }
