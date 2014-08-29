@@ -34,4 +34,5 @@ Useful for mapping one range to the other. ideally suited to scale a great input
 ##arduino_constrain
 Constrains all values passed within the range given by parameters 2 and 3.
 
-
+##arduino_serial_available
+A demonstraion of how Serial.available() works. Checks to see whether a character is available in the serial buffer or not. On sending a character in the terminal, the serial will return "I have received the following character" plus the ASCII code for the character.
